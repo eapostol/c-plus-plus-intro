@@ -1,4 +1,4 @@
-# C++ - Fundamental Introduction
+# C++ Fundamental Introduction
 
 Foundational Courseware Material to self-teach / review C++ for Mac and Windows
 By Edward J. Apostol
